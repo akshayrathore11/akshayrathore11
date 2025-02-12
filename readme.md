@@ -53,7 +53,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/akshayrathore9010/akshayrathore9010/output/snake.svg" />
 
 
 ###
