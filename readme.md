@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
-</div>
+<h1 align="center">Hello There</h1>
 
 ###
 
@@ -22,10 +20,6 @@
 
 ###
 
-<h1 align="center">Hello There</h1>
-
-###
-
 <h2 align="left">👩‍💻  About Me</h2>
 
 ###
@@ -34,7 +28,7 @@
 
 ###
 
-<h3 align="left">I'm Akshay from Bhopal<br><br>- 🔭 I’m  in 3rd year<br>- 📚 Currently learning Web-3<br>- ⚡ In my free time I waste Time</h3>
+<p align="left">I'm Akshay from Bhopal<br><br>- 🔭 I’m  in 3rd year<br>- 📚 Currently learning Web-3<br>- ⚡ In my free time I waste Time</p>
 
 ###
 
@@ -70,7 +64,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
