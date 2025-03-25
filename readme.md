@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Akshay from Bhopal<br><br>- 🔭 I’m  in 3rd year<br>- 📚 Currently learning Web-3<br>- ⚡ In my free time I waste Time</p>
+<p align="left">I'm Akshay from Bhopal<br><br>- 🔭 I’m  in 3rd year<br>- 📚 Currently learning Web-2<br>- ⚡ In my free time I waste Time</p>
 
 ###
 
