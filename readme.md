@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Akshay from Bhopal<br><br>- 🔭 I’m  in 3rd year<br>- 📚 Currently learning Web-2<br>- ⚡ In my free time I waste Time</p>
+<p align="left">I'm Akshay from Bhopal<br><br>- 🔭 Final Year Student<br>- 📚 Currently learning Web-2<br>- ⚡ In my free time I waste Time</p>
 
 ###
 
@@ -70,6 +70,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshayrathore11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+  
   <img src="https://streak-stats.demolab.com?user=akshayrathore11&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
