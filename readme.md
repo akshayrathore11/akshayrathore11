@@ -22,7 +22,7 @@
   <a href="https://www.instagram.com/akshay_rathore__/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <a href="https://ak-personal-portfolio-cyan.vercel.app/" target="_blank">
+  <a href="https://portfolio-roan-two-60.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
   </a>
 </div>
